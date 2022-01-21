@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": "2",
+      "title": "Learn the basics of Vuejs",
+      "details": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+      "complete": true
+    },
+    {
+      "title": "Learn data structure and algorithms",
+      "details": "Master DSAs",
+      "complete": true,
+      "id": "edJd8Jq"
+    },
+    {
+      "title": "lkjs",
+      "details": "kjldkjad",
+      "complete": false,
+      "id": "PlqMwGp"
+    }
+  ]
+}
